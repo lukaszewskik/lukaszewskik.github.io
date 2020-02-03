@@ -1,0 +1,169 @@
+ 
+  @font-face {
+    font-family: agenda;
+    src: url(ufonts.com_agenda-bold.ttf);
+  }
+  .forest {
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 25px;
+    left: 0;
+  }
+  .background {
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .mage {
+    width: 20%;
+    height: auto;
+    position: absolute;
+    bottom: 10%;
+    left: 40%;
+  }
+
+
+
+
+
+.contact p{
+    align-self: center;
+    text-align: center;
+}
+
+.text{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+
+p {
+    font-family: agenda;
+    font-size: 28pt;
+    text-align: left;
+    color: #4D4D4E;
+}
+
+p.bigger-text {
+    font-size: 38pt;
+}
+
+.contact p{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    color: #D77C9A;
+}
+a:link 
+		{
+			color: #D77C9A;
+		}
+		
+		a:visited 
+		{
+			color: #D77C9A;
+		}
+		a:hover 
+		{
+			color: #F095B4;
+		}
+		a:active 
+		{
+			color: #F095B4;
+        }
+        
+
+.logo{
+    margin: auto;
+    width: 10%;
+    padding: 10px;
+    text-align: center; 
+}
+
+.logo img{
+    width: 100%;
+    height: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.art{
+    margin: auto;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.art img{
+    width: 100%;
+    height: auto;
+    position: relative;
+
+
+}
+
+/*nav bar*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    font-family: agenda;
+    font-size: 38pt;
+  }
+  
+li {
+    float: left;
+  }
+  
+li a {
+    display: block;
+    color: #4D4D4E;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+ 
+
+#menu-outer {
+    height: 84px;
+    
+}
+
+.table {
+	display: table;   
+    margin: 0 auto;
+}
+
+ul#horizontal-list {
+
+	list-style: none;
+    padding-top: 20px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+    }
+    
+#horizontal-list > li > a:link
+
+    {
+        color: #4d4d4e;
+    }
+    
+    #horizontal-list > li > a:visited 
+    {
+        color: #4d4d4e;
+    }
+    #horizontal-list > li > a:hover 
+    {
+        color: #333333;
+    }
+    #horizontal-list > li > a:active 
+    {
+        color: #333333;
+    }
